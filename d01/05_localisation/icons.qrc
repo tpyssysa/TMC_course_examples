@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/application-exit.png</file>
+        <file>icons/document-new.png</file>
+        <file>icons/document-open.png</file>
+        <file>icons/document-save.png</file>
+        <file>localisation_fi.qm</file>
+        <file alias="flag">icons/qt_logo.png</file>
+    </qresource>
+    <qresource prefix="/" lang="FI">
+        <file alias="flag">icons/finnish_flag.png</file>
+    </qresource>
+</RCC>

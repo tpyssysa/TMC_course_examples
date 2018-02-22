@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>car_images/cadillac-oldtimer.jpg</file>
+        <file>car_images/cadillac-oldtimer2.jpg</file>
+        <file>car_images/chevrolet-corvette.jpg</file>
+        <file>car_images/chevrolet-oldtimer.jpg</file>
+        <file>car_images/ford-mustang.jpg</file>
+        <file>car_images/ford-shelby.jpg</file>
+        <file>car_images/ford-thunderbird.jpg</file>
+        <file>car_images/mercedes-300.jpg</file>
+        <file>car_images/mercedes-oldtimer.jpg</file>
+    </qresource>
+</RCC>

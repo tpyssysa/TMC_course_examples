@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomItems/Notification-1.0.qml</file>
+        <file>CustomItems/qmldir</file>
+    </qresource>
+</RCC>
